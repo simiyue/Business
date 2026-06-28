@@ -2,6 +2,8 @@
 
 A modern, responsive job listing website showcasing companies and their opportunities across Africa.
 
+**Live App:** https://simiyue.github.io/Business
+
 ## Features
 
 - 🎨 Beautiful card-based UI with hover effects
@@ -47,7 +49,7 @@ A modern, responsive job listing website showcasing companies and their opportun
 
 ## How to Use
 
-1. Open `index.html` in your browser
+1. Visit the live app at https://simiyue.github.io/Business or open `index.html` in your browser
 2. Browse company listings
 3. Click on tags to see services and products
 4. Visit company websites via the CTA buttons
